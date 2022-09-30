@@ -1,4 +1,4 @@
-### Olá! Eu sou o Miguel Fernandes.
+### Olá! Eu sou Miguel Fernandes.
 
 
 - 🌱 Estudante de Desenvolvedor Web.
