@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Miguel Fernandes.
 
 
-- 🔭 Apaixonado por tecnologia.
 - 🌱 Estudante de Desenvolvedor Web.
+- 💡 Melhorando 1% a cada dia.
+- 🔭 Apaixonado por tecnologia.
 
 <div align="center">
   <a href="https://github.com/Mgfrnd">
